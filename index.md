@@ -4,6 +4,7 @@ You managed to find The Eternal Essence Within or what we call our [Inner I Net 
 
 Now, lets make a [Handshake](https://handshake.org/) stay home, go to [NameBase](https://namebase.io/) choose to OWN a [Decentralized DNS](http://dnsdesigns.decentralizeddns/) or a [Handshake, which is a decentralized naming protocol as an alternative to existing Certificate Authorities. A naming protocol that maintains the root zone file in a decentralized manner, making the root zone uncensorable, permissionless and free of gatekeepers.](https://handshakeacademy.org/en/)
 
+- our [HNS-DOMAINS](http:home.hns-domains/)
 - our [WEB SECURITY SPECIALIST](http://admin.websecurityspecialist/). 
 
 Use our Paxful Kiosk ⬇
