@@ -6,6 +6,7 @@ Now, lets make a [Handshake](https://handshake.org/) stay home, go to [NameBase]
 
 - our [HNS-DOMAINS](http:home.hns-domains/)
 - our [WEB SECURITY SPECIALIST](http://admin.websecurityspecialist/). 
+- coming soon a live subdomain registrar for our [EtherHereNow.ETH](https://ipfs.io/ipfs/QmPgE3xWR1FFUuzBaPwHj62qmVPUTi39muY788P8S4VbFk?filename=index.html) domain!!
 
 Use our Paxful Kiosk ⬇
 
