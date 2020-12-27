@@ -1,4 +1,4 @@
-## OWN THE WEB 3
+## OWN THE WEB 3/ | a Handshake TLD
  
 | [IINC](http://dlink.iinc.hns.to/) | [Own The Web 3](http://owntheweb3.hns.to/) | [Contact](https://innerinetcompany.webflow.io/contact/)
 
