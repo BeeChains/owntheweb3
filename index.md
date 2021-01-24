@@ -8,6 +8,7 @@
 
 Now, choose to OWN a [Decentralized DNS](http://dnsdesigns.decentralizeddns.hns.to/) official [Handshake, which is a decentralized naming protocol as an alternative to existing Certificate Authorities. A naming protocol that maintains the root zone file in a decentralized manner, making the root zone uncensorable, permissionless and free of gatekeepers.](https://handshakeacademy.org/en/)
 
+Now, we BEcome the [Gatek33per](http://gatek33per.hns.to/)
 - [THE ROOT ZONE](http://dnssecuritygroup.therootzone.hns.to/)
 - [HNS-DOMAINS](http://home.hns-domains/)
 
