@@ -1,6 +1,6 @@
 ## OWN THE WEB 3 | How to own web space with Handshake(HNS)? How to run a decentalized buisness on top level domains in 2021? Handshake(HNS) is the biggest thing since Bitcoin. Own web 3, we "Shape Reality" by establishing the "I" as the center of gravity. Built on a Handshake(HNS) blockchain root level domain directing all to Look Within oneself to the Source, the root of perception. Handshake helps us resolve self-sovereign identity by allowing true ownership of authentic web space vs. renting domains on the internet.
  
-| [IINC](http://dlink.iinc.hns.to/) | [Own The Web 3](http://owntheweb3.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com/)
+| [IINC](http://dlink.iinc.hns.to/) | [Own The Web 3](http://owntheweb3.hns.to/) | [HNS-DOMAINS](http://home.hns-domains/) | [Contact](mailto:innerinetcompany@gmail.com/)
 
 [![image](https://user-images.githubusercontent.com/37987346/103447365-5f061800-4c58-11eb-8ca9-9f3719cc7e63.png)](http://shapereality.innerinetcompany.hns.to/)
 
